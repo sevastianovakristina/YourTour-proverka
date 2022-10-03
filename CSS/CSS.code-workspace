@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\fonts"
+		},
+		{
+			"path": "..\\img"
+		},
+		{
+			"path": "..\\libs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "libs"
+	}
+}
