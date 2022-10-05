@@ -1491,7 +1491,9 @@
     .wrapper {
       max-width: 918px;
     }
-
+   .header_wrapper {
+      width: 918px;
+    }
     .header_list {
       gap: 30px;
       margin: 1.12px 82.58px 0 250px;
@@ -1888,7 +1890,9 @@
       position: absolute;
       margin: auto 20px;
     }
-
+ .header_wrapper {
+      width: 318px;
+    }
     .wrapper {
       max-width: 910px;
       margin: 0 auto;
